@@ -1,0 +1,9 @@
+{
+  "rds_host": "cis5500project.cdzmkpkxboc9.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "admin",
+  "rds_password": "CIS5500project",
+  "rds_db": "NBA",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
