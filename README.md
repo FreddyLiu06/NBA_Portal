@@ -2,7 +2,9 @@
 
 This is an application that aims to read and present data from an [NBA dataset](https://www.kaggle.com/datasets/nathanlauga/nba-games?select=games.csv). 
 
-Group members: Freddy Liu, Jeremy Zein, Tyler Edwards, Sana Manesh
+## Video Demo
+
+Click [here](https://drive.google.com/file/d/1IarU7ygMw4ZLtCIM1IkkXwNZ9cNl9XH6/view?usp=drive_link) to view a video demonstration of the application.
 
 ## Building the project
 
